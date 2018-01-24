@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataMigSample", "DataMigSample\DataMigSample.csproj", "{BF4227FD-5E13-4E53-8292-194DCA625EEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataMigSample.EF6", "DataMigSample.EF6\DataMigSample.EF6.csproj", "{73A790A5-9B83-4BEF-B235-E108CC18059B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BF4227FD-5E13-4E53-8292-194DCA625EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF4227FD-5E13-4E53-8292-194DCA625EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF4227FD-5E13-4E53-8292-194DCA625EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A790A5-9B83-4BEF-B235-E108CC18059B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A790A5-9B83-4BEF-B235-E108CC18059B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A790A5-9B83-4BEF-B235-E108CC18059B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A790A5-9B83-4BEF-B235-E108CC18059B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
